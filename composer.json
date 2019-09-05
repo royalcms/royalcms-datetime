@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Royalcms\\Component\\Datetime\\": "Royalcms/Component/Datetime"
+            "Royalcms\\Component\\DateTime\\": "Royalcms/Component/DateTime"
         }
     },
     "extra": {
